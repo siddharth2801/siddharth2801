@@ -16,14 +16,14 @@ I'm currently diving into Web-development, Blockchain, and IoT. It's an exciting
 
 ## Collaboration
 
-I'm always open to collaborating on [mention areas where you're interested in collaborating]. If you're working on similar projects or have ideas to share, let's connect!
+I'm always open to collaborating on projects related to the practical implementation of blockchain technology. If you're working on similar projects or have ideas to share, let's connect!
 
 ## Reach Me
 
-You can reach me via [mention how people can contact you, like email, social media, etc.].
+You can reach me via @Gmail:-siddharth.sudhir77@gmail.com
+                     @LinkedIn:-www.linkedin.com/in/siddharth-sudhir-76865a167
+                    
 
 Looking forward to connecting with fellow developers, creators, and learners!
 
-<!---
-Don't forget to add any additional sections or information you'd like to share.
---->
+
