@@ -6,7 +6,7 @@ I'm currently studying Computer science and blockchain Technology, I am very pas
 
 ## Interests
 
-- Blockchain 
+- Blockchain Developer  
 - Quantum computing 
 - Web-development
 
